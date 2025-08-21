@@ -71,22 +71,4 @@ button {
   color: #e06c18;
 }
 
-/* ✅ Mobile Responsive Layout */
-@media (max-width: 480px) {
-  .calculator {
-    width: 95%;
-    padding: 15px;
-  }
 
-  input {
-    font-size: 28px;
-    padding: 18px;
-  }
-
-  button {
-    height: 60px;
-    max-width: 60px;
-    font-size: 18px;
-    margin: 6px;
-  }
-}
